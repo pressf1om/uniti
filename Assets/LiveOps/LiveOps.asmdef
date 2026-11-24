@@ -1,0 +1,8 @@
+{
+    "name": "LiveOps",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "autoReferenced": false
+}

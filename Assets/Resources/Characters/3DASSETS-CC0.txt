@@ -1,0 +1,4 @@
+Shopkeeper model: "Low Poly Shop Worker In An Apron" from 3dassets.dev
+CDN: https://cdn.3dassets.dev/assets/36357/v1/model.glb
+License: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Asset page: https://3dassets.dev/assets/low-poly-character-figures-shop-worker-standing-44c74d70

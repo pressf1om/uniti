@@ -1,0 +1,9 @@
+{
+    "name": "nunit.framework",
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": true,
+    "noEngineReferences": true
+}

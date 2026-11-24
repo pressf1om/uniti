@@ -1,0 +1,4 @@
+Vendor mesh: Superhero Male (Universal Base Characters) by Quaternius.
+License: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Pack: https://quaternius.itch.io/universal-base-characters
+Prepared GLB source: https://github.com/programasweights/avatar (character.glb)

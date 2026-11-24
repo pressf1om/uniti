@@ -1,0 +1,6 @@
+<linker>
+  <assembly fullname="Unity.VisualScripting.DocCodeExamples" preserve="nothing"/>
+  <assembly fullname="glTFast.Documentation.Examples" preserve="nothing"/>
+  <assembly fullname="Unity.Services.Authentication.Cli" preserve="nothing"/>
+  <assembly fullname="Unity.Services.Core.Cli" preserve="nothing"/>
+</linker>

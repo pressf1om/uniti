@@ -1,0 +1,12 @@
+{
+    "name": "PlayerSave",
+    "references": [
+        "Unity.Services.Core",
+        "Unity.Services.CloudSave",
+        "PlayerAuthentication"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "autoReferenced": false
+}

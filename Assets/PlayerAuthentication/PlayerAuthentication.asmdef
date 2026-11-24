@@ -1,0 +1,11 @@
+{
+    "name": "PlayerAuthentication",
+    "references": [
+        "Unity.Services.Core",
+        "Unity.Services.Authentication"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "autoReferenced": false
+}
